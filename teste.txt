@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -Add, adicionar novos arquivos a pasta usada para o repositório e depois ser salvo na nuvem.
 
 -Status, verificar o status dos arquivos na pasta do repositório e inspecionar quais arquivos foram adicionados e quais não foram.
@@ -12,3 +13,18 @@
 
 -Clone, Copiar um repositório de um git para um outro repositório.
 
+=======
+-Add, adiciona arquivos novos para o repositório
+
+-Status, verifica o status atual do repositório e os arquivos nele
+
+-Commit, criar versões que ficarão salvas no histórico do projeto no github
+
+-Pull, atualiza o repositório para a sua versão mais recente
+
+-Push, envia o repositório em seu estado atual para a nuvem, no github
+
+-Clone, copia um repositório que já existe para o seu
+
+-Pull request, quando é enviada uma solicitação para alterar o repositório no github, tendo que ser aprovado pela equipe de trabalho ou por pessoas específicas.
+>>>>>>> dev
