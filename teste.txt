@@ -1,1 +1,13 @@
-gsagas
+-Add, adiciona arquivos novos para o repositório
+
+-Status, verifica o status atual do repositório e os arquivos nele
+
+-Commit, criar versões que ficarão salvas no histórico do projeto no github
+
+-Pull, atualiza o repositório para a sua versão mais recente
+
+-Push, envia o repositório em seu estado atual para a nuvem, no github
+
+-Clone, copia um repositório que já existe para o seu
+
+-Pull request, quando é enviada uma solicitação para alterar o repositório no github, tendo que ser aprovado pela equipe de trabalho ou por pessoas específicas.
